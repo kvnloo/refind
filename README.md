@@ -1,0 +1,2 @@
+# refind
+my refind config
